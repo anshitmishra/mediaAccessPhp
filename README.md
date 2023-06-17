@@ -44,3 +44,9 @@ To get started with the project, follow these steps:
 ![Screenshot 1](images/s1.png)
 ![Screenshot 2](images/s2.png)
 ![Screenshot 3](images/s3.png)
+
+
+
+## License
+
+The project is licensed under the [Apache License](LICENSE).
