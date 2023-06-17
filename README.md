@@ -28,3 +28,19 @@ To get started with the project, follow these steps:
    ```bash
    git clone https://github.com/anshitmishra/mediaAccessPhp.git
 
+
+## Getting Started
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/anshitmishra/mediaAccessPhp.git
+
+
+## Screenshots
+
+![Screenshot 1](images/s1.png)
+![Screenshot 2](images/s2.png)
+![Screenshot 3](images/s3.png)
